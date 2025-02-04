@@ -1,0 +1,6 @@
+Flask
+pdfminer.six
+fuzzywuzzy
+scikit-learn
+joblib
+numpy
